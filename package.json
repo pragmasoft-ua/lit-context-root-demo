@@ -1,0 +1,17 @@
+{
+  "name": "lit-context-root-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lit-labs/context": "^0.3.3",
+    "lit": "^2.7.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
